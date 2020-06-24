@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\OhSeungho\source\repos\200623_Pseudo-random\200623_Pseudo-random\main.cpp(43,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  200623_Pseudo-random.vcxproj -> C:\Users\OhSeungho\source\repos\200623_Pseudo-random\Debug\200623_Pseudo-random.exe
